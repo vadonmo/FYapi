@@ -1,5 +1,5 @@
 <?php
-header("Content-type:application/json;charset=gbk");
+header("Content-type:application/json;charset=utf-8");
 $dlm = $_POST["dlm"];
 $dmm = $_POST["mm"];
 $yhjs = 0;
