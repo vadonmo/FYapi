@@ -5,7 +5,6 @@ $fgsid = $_POST["fgsid"];
 {"code":0,"result":
 	{
 		"id":1,
-		"xmmc":"广西项目2",
 		"sgdw":"施工单位大大大",
 		"aqzt":0,
 		"tjzs":10,

@@ -1,0 +1,29 @@
+<?php
+header("Content-type:application/json;charset=utf-8");
+?>
+{"code":0,"result":
+	{
+		"id":1,
+		"xmmc":"湖东分区HD49-01号地块商品住宅项目",
+		"babh":"备案编号",
+		"hxzbh":"黑匣子编号",
+		"xmsbbh":"项目设备编号",
+		"jcxtid":"监测系统ID号",
+		"sfzx":1,
+		"jrwz":2,
+		"jrdz":40,
+		"yxpg":"高风险",
+		"gzsc":"5h30min",
+		"lyl":45,
+		"scwbsj":"2017-12-12",
+		"gfxzs":45,
+		"jnzs":90,
+		"gzqdzs":80,
+		"tjxh":"塔机型号",
+		"cqdw":"产权单位",
+		"sccs":"生产厂商",
+		"ccbh":"出厂编号",
+		"sjxm":"司机",
+		"sjlxfs":"10086"
+	}
+}

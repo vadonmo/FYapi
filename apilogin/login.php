@@ -29,4 +29,4 @@ switch ($dlm) {
         break;
 }
 ?>
-{"code":0,"result":{"yhjs":<?php echo $yhjs ?>},"msg":"登录成功"}
+{"code":0,"result":{"APPJGBH":0,"APPYHLX":0,"DLM":"JCJS","MM":"123","YHID":0,"qxid":10,"yhjs":<?php echo $yhjs ?>},"msg":"登录成功"}

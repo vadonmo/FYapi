@@ -1,0 +1,9 @@
+<?php
+header("Content-type:application/json;charset=utf-8");
+//"url":"http://www.jxhtss.cn/fyapi/app/apk_0.1-4.apk",
+?>
+{
+	"url":"http://www.jxhtss.cn/fyapi/app/apk_0.1-6.apk",
+	"versionCode":6,
+	"updateMessage":"[1]新增自动更新\n[2]优化离线缓存功能\n[3]增强了稳定性"
+}
